@@ -1,5 +1,5 @@
 <_>
-   <form_key>Snpd1lwNT1DtdE5H</form_key>
+   <form_key>DQEpgZI0l1poxFMm</form_key>
    <name>Affirm_Affirm</name>
    <channel>community</channel>
    <version_ids>
@@ -9,7 +9,7 @@
    <description>Affirm functions as an alternative payment method and offers easy financing.</description>
    <license>OSL-3.0</license>
    <license_uri>http://opensource.org/licenses/osl-3.0.php</license_uri>
-   <version>3.5.5</version>
+   <version>3.5.6</version>
    <stability>stable</stability>
    <notes>Promotional messaging enhancements and other bug fixes</notes>
    <authors>
@@ -40,7 +40,7 @@
             <max/>
          </max>
          <files>
-            <files>    </files>
+            <files>     </files>
          </files>
       </package>
       <extension>
@@ -112,4 +112,8 @@
          <ignore/>
       </ignore>
    </contents>
+   <page>1</page>
+   <limit>200</limit>
+   <folder/>
+   <package/>
 </_>
