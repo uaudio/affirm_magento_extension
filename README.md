@@ -1,2 +1,2 @@
 # affirm_magento_extension
-see http://confluence.uaudio.com/display/WEB/Update+Magento+Extensions
+see https://uaudio.atlassian.net/wiki/spaces/WEB/pages/274253/Upgrades
